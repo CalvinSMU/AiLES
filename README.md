@@ -17,7 +17,7 @@ Special thanks to the following awesome projects！
 
 ## Contact
 If you have any question about papers, feel free to mail me ･◡･
-[Emial](Calvin_smu@163.com)
+[Email](Calvin_smu@163.com)
 
 ## Citation
 To be updated
