@@ -20,5 +20,4 @@ If you have any question about our work, feel free to mail me ･◡･
 [Email](Calvin_smu@163.com)
 
 ## Citation
-To be updated
-
+Chen, H., Gou, L., Fang, Z. et al. Artificial intelligence assisted real-time recognition of intra-abdominal metastasis during laparoscopic gastric cancer surgery. npj Digit. Med. 8, 9 (2025). https://doi.org/10.1038/s41746-024-01372-6
