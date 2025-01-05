@@ -1,8 +1,8 @@
 # AiLES
-## Artificial Intelligence Assisted Real Time Recognition of Intra Abdominal Metastasis during Laparospic Gastric Cancer Surgery
+## Artificial intelligence assisted real-time recognition of intra-abdominal metastasis during laparoscopic gastric cancer surgery
 
 ## Description
-This implementation corresponds to the Artificial Intelligence Laparoscopic Exploration System (AiLES) proposed in the paper *Artificial Intelligence Assisted Real Time Recognition of Intra Abdominal Metastasis during Laparospic Gastric Cancer Surgery*.
+This implementation corresponds to the Artificial Intelligence Laparoscopic Exploration System (AiLES) proposed in the paper *Artificial intelligence assisted real-time recognition of intra-abdominal metastasis during laparoscopic gastric cancer surgery*.
 
 ## Note
 The original dataset generated and analyzed, along with the custom code used in the present study, is not publicly available due to ethical regulations concerning confidentiality and privacy. However, it is available upon reasonable request from the corresponding author.
